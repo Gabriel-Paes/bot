@@ -1,0 +1,4 @@
+#Git ignores
+
+/node_modules
+.env
